@@ -1,0 +1,1163 @@
+function qq()
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+local args = {
+    [1] = false
+}
+
+game:GetService("ReplicatedStorage").SUP_.Capo.KickAnimation:FireServer(unpack(args))
+wait(0.1)
+
+
+end
+-- Starting
+Game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(311.97894287109375, 16.132413864135742, -230.7279815673828)
+
+
+
+game.Workspace.ramavidio.Humanoid.WalkToPoint = Vector3.new(311.8589172363281, 16.132413864135742, 333.8531188964844)
+
+
+-- tp pos 1
+311.97894287109375, 16.132413864135742, -230.7279815673828
+
+
+-- pos 2
+311.8589172363281, 16.132413864135742, 333.8531188964844
+
+
+
+
+
+
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/youngstar"))();
+
+local Window1 = library:CreateWindow("Ugc");
+
+Window1:Button("get 1m win wait 20 minute",function()
+qq()
+end);
+
+Window1:Toggle("ExampleToggle",function(E)
+_G.Toggels = E or false
+while _G.Toggels do
+-- Starting
+Game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(311.97894287109375, 16.132413864135742, -230.7279815673828)
+game.Workspace.ramavidio.Humanoid.WalkToPoint = Vector3.new(311.8589172363281, 16.132413864135742, 333.8531188964844)
+wait(2)
+game.Workspace.ramavidio.Humanoid.WalkToPoint = Vector3.new(311.8589172363281, 16.132413864135742, 333.8531188964844)
+wait(3)
+end
+end);
